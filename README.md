@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexNicolasCode
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning Sass
+- 🌱 I’m currently learning TypeScript
 
 <!---
 AlexNicolasCode/AlexNicolasCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
