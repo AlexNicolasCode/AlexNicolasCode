@@ -9,6 +9,8 @@ If you want to know more about codes, see my projects in GitHub or send an email
 <div>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescipt icon" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" height="30" width="40" />
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python icon" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs icon" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react icon" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs icon" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass icon" height="30" width="40" />
