@@ -1,6 +1,6 @@
-Hello, my name is Alex Nicolas! I'm studying programming since Jan 2021, and I'm learning about web develop. Current, I'm work with NextJS, TypeScript, Styled-Components, Node, MongoDB and some an others technologies.
+Hello, my name is Alex! I'm frontend developer and create some projects here. Currently, I work with NextJS, TypeScript, Styled-Components, Node, and some others technologies.
 
-If you want to know more about codes, see my projects in GitHub or send an email from contato.alexnicolas@gmail.com.
+If you want to know more about me or my projects, send an email to contato.alexnicolas@gmail.com.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-alex)](https://www.linkedin.com/in/nicolas-alex)
 
