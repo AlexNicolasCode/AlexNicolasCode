@@ -4,8 +4,6 @@ If you want to know more about me or my projects, send an email to contato.alexn
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-alex)](https://www.linkedin.com/in/nicolas-alex)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnicolascode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescipt icon" height="30" width="40" />
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" height="30" width="40" />
