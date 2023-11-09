@@ -1,6 +1,6 @@
 Hi!! Welcome to my GitHub!
 
-My name is Alex, I'm software developer since 2019 as free-lancer and as fulltime developer since 2021. I currently work with JavaScript, Python, Django, React, and Vue, but you'll find projects wrote with Java, Go, Rust, and another tools on my profile too.
+My name is Alex, I'm software developer since 2019 as free-lancer and since 2021 as fulltime developer. I currently work with JavaScript, Python, Django, React, and Vue, but you'll find projects wrote with Java, Go, Rust, and another tools on my profile too.
 
 Here I work on personal projects, like Bookue (pinned bellow).
 
