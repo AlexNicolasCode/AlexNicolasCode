@@ -1,4 +1,8 @@
-Hello, my name is Alex! I'm frontend developer and create some projects here. Currently, I work with NextJS, TypeScript, Styled-Components, Node, and some others technologies.
+Hi!! Welcome to my GitHub!
+
+My name is Alex, I'm software developer since 2019 as free-lancer and as fulltime developer since 2021. I currently work with JavaScript, Python, Django, React, and Vue, but you'll find projects wrote with Java, Go, Rust, and another tools on my profile too.
+
+Here I work on personal projects, like Bookue (pinned bellow).
 
 If you want to know more about me or my projects, send an email to contato.alexnicolas@gmail.com.
 
